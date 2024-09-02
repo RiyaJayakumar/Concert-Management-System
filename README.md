@@ -1,0 +1,1 @@
+This is an implementation of a concert management system that tracks revenue. Used HTML/CSS/Bootstrap for frontend and MySQL + phpmyadmin for backend. Submitted this as the final project for my Database Management Systems course.
